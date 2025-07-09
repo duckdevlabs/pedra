@@ -39,3 +39,5 @@ Estes termos poderão ser atualizados periodicamente. Qualquer alteração relev
 
 ## 9. Contato
 Em caso de dúvidas ou solicitações, entre em contato: contato@allansrc.com.br
+
+Caso seja desejo do usuário de exluir sua conta, também entrar em contato no email acima.
